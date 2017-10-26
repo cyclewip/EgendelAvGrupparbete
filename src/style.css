@@ -1,5 +1,5 @@
 .buttonText {
-    color: red;
+    color: black;
     font-size: 20px;
 }
 
@@ -23,4 +23,36 @@ body, html {
 .buttonBox {
 background-color: darkolivegreen;
 
+}
+
+.center{
+    text-align:center;
+}
+
+.tableIconsCenter{
+
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottom{
+    position: fixed;
+    bottom:0;
+}
+.middle{
+    right: 50%;
+}
+
+.text30px{
+    font-size: 30px;
+}
+.pictureSize{
+    height:200px;
+    width:200px;
+}
+
+.iconSize{
+    height:30px;
+    width:30px;
 }
